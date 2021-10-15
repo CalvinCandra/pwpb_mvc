@@ -15,7 +15,6 @@
 			return $url;
 			}
 			}
-			echo "hello"
 	
 	}
 
